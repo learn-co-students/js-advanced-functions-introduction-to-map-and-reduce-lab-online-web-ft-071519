@@ -36,7 +36,6 @@ function reduceToTotal(arr, start = 0) {
 }
 
 function reduceToAllTrue(arr) {
-    let truthiness = true;
     let i = 0;
 
     for(i =0; i < arr.length; i++){
